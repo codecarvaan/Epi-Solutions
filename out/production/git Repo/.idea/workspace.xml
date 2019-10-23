@@ -2,162 +2,587 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="225debaa-b153-4333-81bf-045707de369e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/PrimitiveMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/PrimitiveMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/ReverseBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/SwapBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/SwapBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/TreeInorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/TreeInorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git Repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/git Repo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AbsentValueArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AbsentValueArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AbsentValueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AbsentValueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$ClientsCreditsInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$ClientsCreditsInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits$Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AddingCredits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AdvanceByOffsets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AdvanceByOffsets$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AdvanceByOffsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AdvanceByOffsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AlternatingArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AlternatingArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/AlternatingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/AlternatingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ApplyPermutation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ApplyPermutation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ApplyPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ApplyPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Arbitrage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Arbitrage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Arbitrage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Arbitrage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BinomialCoefficients$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BinomialCoefficients$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BinomialCoefficients.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BinomialCoefficients.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus$EmployeeData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus$EmployeeData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Bonus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromPreorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromPreorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromPreorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromPreorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromSortedArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromSortedArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstFromSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstMerge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstMerge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStock$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStock$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockKTimes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockKTimes$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockKTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockKTimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockTwice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockTwice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockTwice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BuyAndSellStockTwice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$QueueOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue$QueueOp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ClosestIntSameWeight$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ClosestIntSameWeight$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ClosestIntSameWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ClosestIntSameWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CollatzChecker$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CollatzChecker$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CollatzChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CollatzChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ConvertBase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ConvertBase$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ConvertBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ConvertBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList$SerializedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList$SerializedNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CopyPostingList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CountBits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CountBits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CountBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CountBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CountInversions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CountInversions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CountInversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CountInversions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$GraphVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection$GraphVertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeadlockDetection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs$Jug.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs$Jug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DefectiveJugs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteFromList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteFromList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteFromList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteFromList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteKthLastFromList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteKthLastFromList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteKthLastFromList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteKthLastFromList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DirectoryPathNormalization$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DirectoryPathNormalization$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DirectoryPathNormalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DirectoryPathNormalization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DoListsOverlap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DoListsOverlap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DoListsOverlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DoListsOverlap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DoTerminatedListsOverlap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DoTerminatedListsOverlap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DoTerminatedListsOverlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DoTerminatedListsOverlap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DoublyListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DoublyListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline$Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline$Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DrawingSkyline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DutchNationalFlag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ElementAppearingOnce$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ElementAppearingOnce$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ElementAppearingOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ElementAppearingOnce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateBalancedParentheses$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateBalancedParentheses$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateBalancedParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateBalancedParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumeratePalindromicDecompositions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumeratePalindromicDecompositions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumeratePalindromicDecompositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumeratePalindromicDecompositions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateTrees$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateTrees$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EnumerateTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvaluateRpn$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvaluateRpn$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvaluateRpn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvaluateRpn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddListMerge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddListMerge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddListMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/EvenOddListMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FirstMissingPositiveEntry$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FirstMissingPositiveEntry$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FirstMissingPositiveEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FirstMissingPositiveEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Gcd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Gcd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Gcd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Gcd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$GraphVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone$GraphVertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GraphClone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GrayCode$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GrayCode$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GrayCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GrayCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/HIndex$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/HIndex$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/HIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/HIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding$CharWithFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding$CharWithFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/HuffmanCoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/InsertInList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/InsertInList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/InsertInList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/InsertInList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/InsertOperatorsInString$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/InsertOperatorsInString$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/InsertOperatorsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/InsertOperatorsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayIncrement$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayIncrement$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayIncrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayIncrement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayMultiply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayMultiply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsArrayMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsListAdd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsListAdd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsListAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntAsListAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntSquareRoot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntSquareRoot$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntSquareRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntSquareRoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$FlatInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$FlatInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval$Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval$Endpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsAnonymousLetterConstructible$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsAnonymousLetterConstructible$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsAnonymousLetterConstructible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsAnonymousLetterConstructible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsArrayDominated$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsArrayDominated$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsArrayDominated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsArrayDominated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$GraphVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable$GraphVertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsCircuitWirable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListPalindromic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListPalindromic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListPalindromic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPalindromicPunctuation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPalindromicPunctuation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPalindromicPunctuation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPalindromicPunctuation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPermutableToPalindrome$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPermutableToPalindrome$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPermutableToPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringPermutableToPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeBalanced$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeBalanced$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeBalanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeBalanced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeSymmetric$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeSymmetric$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeSymmetric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidParenthesization$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidParenthesization$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidParenthesization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidParenthesization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidSudoku$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidSudoku$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsValidSudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars$Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars$Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KClosestStars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestInHeap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestInHeap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestInHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestInHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInLongArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInLongArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInLongArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInLongArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInTwoSortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInTwoSortedArrays$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestElementInTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestInArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestInArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthLargestInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree$BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree$BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KthNodeInTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LeftRightJustifyText$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LeftRightJustifyText$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LeftRightJustifyText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LeftRightJustifyText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints$Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LineThroughMostPoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestContainedInterval$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestContainedInterval$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestContainedInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestContainedInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray$Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray$Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestIncreasingSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithDistinctValues$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithDistinctValues$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithDistinctValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithDistinctValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithSumConstraint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithSumConstraint$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithSumConstraint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubarrayWithSumConstraint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubstringWithMatchingParentheses$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubstringWithMatchingParentheses$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubstringWithMatchingParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestSubstringWithMatchingParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LookAndSay$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LookAndSay$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LookAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LookAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorCloseAncestor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorCloseAncestor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorCloseAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorCloseAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorWithParent$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorWithParent$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorWithParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorWithParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$Op.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$Op.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixConnectedRegions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixConnectedRegions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixConnectedRegions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixConnectedRegions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixEnclosedRegions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixEnclosedRegions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixEnclosedRegions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixEnclosedRegions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow$TrafficElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow$TrafficElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxOfSlidingWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxProductAllButOne$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxProductAllButOne$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxProductAllButOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxProductAllButOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSafeHeight$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSafeHeight$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSafeHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSafeHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSquareSubmatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSquareSubmatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSquareSubmatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSquareSubmatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSubmatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSubmatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSubmatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSubmatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$GraphVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph$GraphVertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTeamsInPhotograph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxWaterTrappable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxWaterTrappable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxWaterTrappable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxWaterTrappable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaximumSubarrayInCircularArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaximumSubarrayInCircularArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaximumSubarrayInCircularArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaximumSubarrayInCircularArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NearestRepeatedEntries$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NearestRepeatedEntries$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NearestRepeatedEntries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NearestRepeatedEntries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NextPermutation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NextPermutation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NextPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NonuniformRandomNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NonuniformRandomNumber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NonuniformRandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NonuniformRandomNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OfflineSampling$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OfflineSampling$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OfflineSampling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OfflineSampling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineMedian$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineMedian$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineMedian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineMedian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineSampling$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineSampling$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineSampling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/OnlineSampling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Parity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Parity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Parity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Parity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PascalTriangle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PascalTriangle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PathSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PathSum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PhoneNumberMnemonic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PhoneNumberMnemonic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PhoneNumberMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PhoneNumberMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PivotList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PivotList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PivotList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PivotList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PostingListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PostingListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerXY$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerXY$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerXY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerXY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimeSieve$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimeSieve$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimeSieve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimeSieve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveDivide$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveDivide$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveDivide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveDivide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveMultiply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveMultiply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrimitiveMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$QueueOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks$QueueOp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueFromStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax$QueueOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax$QueueOp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/QueueWithMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RandomPermutation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RandomPermutation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RandomPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RandomPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RandomSubset$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RandomSubset$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RandomSubset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RandomSubset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RealSquareRoot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RealSquareRoot$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RealSquareRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RealSquareRoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection$Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection$Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RectangleIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RegularExpression$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RegularExpression$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RegularExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates$Name.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates$Name.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicatesFromSortedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicatesFromSortedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicatesFromSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RemoveDuplicatesFromSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReplaceAndRemove$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReplaceAndRemove$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReplaceAndRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReplaceAndRemove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseBits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseBits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseSublist$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseSublist$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseSublist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseSublist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork$HighwaySection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork$HighwaySection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RoadNetwork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RomanToInteger$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RomanToInteger$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RomanToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RookAttack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RookAttack$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RookAttack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RookAttack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RotateArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RotateArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RunLengthCompression$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RunLengthCompression$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RunLengthCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RunLengthCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchEntryEqualToIndex$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchEntryEqualToIndex$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchEntryEqualToIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchEntryEqualToIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstKey$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstKey$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstKey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement$DuplicateAndMissing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement$DuplicateAndMissing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFrequentItems$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFrequentItems$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFrequentItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFrequentItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchInList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchInList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchInList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchInList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$Coordinate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze$Coordinate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchMaze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchShiftedSortedArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchShiftedSortedArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchShiftedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchShiftedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchUnknownLengthArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchUnknownLengthArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchUnknownLengthArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchUnknownLengthArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestNonconstructibleValue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestNonconstructibleValue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestNonconstructibleValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestNonconstructibleValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues$Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues$Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringAllValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet$Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet$Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SmallestSubarrayCoveringSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SnakeString$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SnakeString$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SnakeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SnakeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortAlmostSortedArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortAlmostSortedArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortAlmostSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortAlmostSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortIncreasingDecreasingArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortIncreasingDecreasingArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortIncreasingDecreasingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortIncreasingDecreasingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArrayRemoveDups$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArrayRemoveDups$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArrayRemoveDups.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArrayRemoveDups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArraysMerge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArraysMerge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArraysMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedArraysMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListsMerge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListsMerge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListsMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListsMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SpiralOrderingSegments$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SpiralOrderingSegments$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SpiralOrderingSegments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SpiralOrderingSegments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SpreadsheetEncoding$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SpreadsheetEncoding$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SpreadsheetEncoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SpreadsheetEncoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringIntegerInterconversion$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringIntegerInterconversion$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringIntegerInterconversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringIntegerInterconversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringTransformability$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringTransformability$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringTransformability.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringTransformability.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SuccessorInTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SuccessorInTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SuccessorInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SuccessorInTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SudokuSolve$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SudokuSolve$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SudokuSolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SudokuSolve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SumRootToLeaf$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SumRootToLeaf$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SumRootToLeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SumRootToLeaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SunsetView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SunsetView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SunsetView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SunsetView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SwapBits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SwapBits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SwapBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SwapBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$PairedTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$PairedTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Team$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Team$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeConnectLeaves$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeConnectLeaves$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeConnectLeaves.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeConnectLeaves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeExterior$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeExterior$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeExterior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeExterior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderInorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderInorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderInorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderWithNull$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderWithNull$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderWithNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeFromPreorderWithNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeInorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeInorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeInorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeLevelOrder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeLevelOrder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeLevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeLevelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling$BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling$BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeRightSibling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeWithParentInorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeWithParentInorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreeWithParentInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreeWithParentInorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSortedArraysMerge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSortedArraysMerge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSortedArraysMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSortedArraysMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/UniformRandomNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/UniformRandomNumber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/UniformRandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/UniformRandomNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ValidIpAddresses$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ValidIpAddresses$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ValidIpAddresses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ValidIpAddresses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ZipList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ZipList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ZipList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ZipList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/BinaryTreeUtils$TreePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/BinaryTreeUtils$TreePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/BinaryTreeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/BinaryTreeUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/ConsoleColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTestComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTestComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTestExpectedType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiTestExpectedType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiUserType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/EpiUserType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/LexicographicalListComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/LexicographicalListComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/Platform.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/Platform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/RandomSequenceChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/RandomSequenceChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure$Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure$Property.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure$PropertyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure$PropertyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestFailure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtilsConsole$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtilsConsole$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtilsConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtilsConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TimedExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TimedExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TimeoutException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TimeoutException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TriBool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TriBool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TriBool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TriBool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Json$DefaultHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Json$DefaultHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Json.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Json.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonLiteral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonLiteral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject$HashIndexTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject$HashIndexTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/JsonWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/ParseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/ParseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/PrettyPrint$PrettyPrintWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/PrettyPrint$PrettyPrintWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/PrettyPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/PrettyPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WriterConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WriterConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WriterConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WriterConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WritingBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/minimal_json/WritingBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/BinaryTreeTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/BinaryTreeTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/BooleanTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/BooleanTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/CharacterTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/CharacterTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/DoubleTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/DoubleTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/FloatTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/FloatTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/IntegerTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/IntegerTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/LinkedListTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/LinkedListTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/LongTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/LongTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/SerializationTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/SerializationTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/SetTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/SetTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ShortTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ShortTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/StringTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/StringTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/TraitsFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/TraitsFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/TraitsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/TraitsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/UserTypeTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/UserTypeTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/VoidTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/VoidTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/git Repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/git Repo.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="42214481">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="17" />
-          <entry key="xml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="14" />
-          <entry key="Scratch" value="3" />
-          <entry key="XML" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="4115" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="772" />
-          <entry key="Scratch" value="3343" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/epi/ReverseSublist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/epi/TreeInorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/epi/TreePostorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/epi/TreePreorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/epi/SwapBits.java" />
-        <option value="$PROJECT_DIR$/epi/ReverseBits.java" />
-        <option value="$PROJECT_DIR$/epi/PrimitiveMultiply.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/Main.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/problem.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
-        <option value="$PROJECT_DIR$/epi/ReverseSublist.java" />
-        <option value="$PROJECT_DIR$/epi/TreeInorder.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-              <item name="epi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1Sah1QnZZD3Gs1nX0mSLjUDCXW4" />
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570026825507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570040999479" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +596,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeInorder">
+  <component name="RunManager" selected="Application.Parity">
     <configuration name="Parity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="epi.Parity" />
       <module name="git Repo" />
@@ -198,41 +623,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
+    <configuration name="TreePostorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.TreePostorder" />
+      <module name="git Repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreePreorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.TreePreorder" />
+      <module name="git Repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestClass" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/problem.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem_3" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_3" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Java Scratch.problem" />
-      <item itemvalue="Java Scratch.problem_3" />
-      <item itemvalue="Application.Parity" />
-      <item itemvalue="Java Scratch.TestClass" />
       <item itemvalue="Application.TreeInorder" />
+      <item itemvalue="Application.TreePostorder" />
+      <item itemvalue="Application.TreePreorder" />
+      <item itemvalue="Java Scratch.TestClass" />
+      <item itemvalue="Application.Parity" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Parity" />
+        <item itemvalue="Application.TreePreorder" />
+        <item itemvalue="Application.TreePostorder" />
         <item itemvalue="Application.TreeInorder" />
         <item itemvalue="Java Scratch.TestClass" />
-        <item itemvalue="Java Scratch.problem_3" />
-        <item itemvalue="Application.Parity" />
-        <item itemvalue="Java Scratch.problem" />
       </list>
     </recent_temporary>
   </component>
@@ -247,42 +684,30 @@
       <option name="presentableId" value="Default" />
       <updated>1562400704633</updated>
     </task>
+    <task id="LOCAL-00001" summary="preorder">
+      <created>1570041038854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570041038854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.24754098" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="preorder" />
+    <option name="LAST_COMMIT_MESSAGE" value="preorder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -290,161 +715,13 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/epi/OnlineSampling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/IsNumberPalindromic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/ReverseBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/SwapBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/PrimitiveMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Parity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2550" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TwoSortedArraysMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/DoublyListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/DoListsOverlap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/ReverseSublist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TreePostorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TreePreorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TreeInorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
 </project>
