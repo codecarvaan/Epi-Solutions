@@ -6,10 +6,22 @@ public class PathSum {
 
   public static boolean hasPathSum(BinaryTreeNode<Integer> tree,
                                    int remainingWeight) {
-    // TODO - you fill in here.
-    return true;
+
+    return hasSumHandler(tree,remainingWeight,0);
   }
 
+  public static boolean hasSumHandler(BinaryTreeNode<Integer> tree,int weight,int sum){
+
+    if(tree==null){
+      return false;
+    }
+    sum=sum+tree.data;
+    if(sum==weight && tree.right==null && tree.left==null){
+      return true;
+    }
+    return hasSumHandler(tree.left,weight,sum)||hasSumHandler(tree.right, weight, sum);
+
+  }
   public static void main(String[] args) {
     System.exit(
         GenericTest
