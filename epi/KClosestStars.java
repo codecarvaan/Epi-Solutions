@@ -33,7 +33,7 @@ public class KClosestStars {
   }
 
   private static List<Star> findClosestKStars(Iterator<Star> stars, int k) {
-    // TODO - you fill in here.
+
     PriorityQueue<Star> heap=new PriorityQueue<>(k);
 
     int limit=0;

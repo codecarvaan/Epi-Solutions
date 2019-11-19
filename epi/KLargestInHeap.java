@@ -5,13 +5,26 @@ import epi.test_framework.GenericTest;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.PriorityQueue;
 import java.util.function.BiPredicate;
 public class KLargestInHeap {
   @EpiTest(testDataFile = "k_largest_in_heap.tsv")
 
   public static List<Integer> kLargestInBinaryHeap(List<Integer> A, int k) {
-    // TODO - you fill in here.
-    return null;
+    PriorityQueue<Integer> heap=new PriorityQueue();
+    int count=0;
+    for(int i:A){
+      heap.add(i);
+      count++;
+      if(count>k){
+        heap.poll();
+      }
+    }
+    ArrayList ls=new ArrayList();
+    ls.addAll(heap);
+
+System.out.println(ls.toString());
+    return ls;
   }
   @EpiTestComparator
   public static BiPredicate<List<Integer>, List<Integer>> comp =
