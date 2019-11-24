@@ -17,6 +17,7 @@ public class SearchForMinMaxInArray {
 
     private static MinMax minMax(Integer a, Integer b) {
       return Integer.compare(b, a) < 0 ? new MinMax(b, a) : new MinMax(a, b);
+
     }
 
     @Override
@@ -45,8 +46,22 @@ public class SearchForMinMaxInArray {
   @EpiTest(testDataFile = "search_for_min_max_in_array.tsv")
 
   public static MinMax findMinMax(List<Integer> A) {
-    // TODO - you fill in here.
-    return new MinMax(0, 0);
+
+      if(A.size()==1){
+          return new MinMax(A.get(0),A.get(0));
+      }
+      MinMax global=new MinMax(A.get(0),A.get(0));
+      for(int i=1;i<A.size();i+=2){
+         MinMax local=MinMax.minMax(A.get(i-1),A.get(i));
+         global=MinMax.minMax(MinMax.minMax(local.smallest,global.smallest).smallest,MinMax.minMax(local.largest,global.largest).largest);
+
+      }
+      if(A.size()%2!=0){
+          MinMax local=MinMax.minMax(A.get(A.size()-1),A.get(A.size()-1));
+          global=MinMax.minMax(MinMax.minMax(local.smallest,global.smallest).smallest,MinMax.minMax(local.largest,global.largest).largest);
+
+      }
+     return global;
   }
 
   public static void main(String[] args) {

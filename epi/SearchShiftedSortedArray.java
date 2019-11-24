@@ -6,20 +6,18 @@ public class SearchShiftedSortedArray {
   @EpiTest(testDataFile = "search_shifted_sorted_array.tsv")
 //trick is that smallest index will be always in left
   public static int searchSmallest(List<Integer> A) {
-  int left=0;
-  int right=A.size()-1;
-  int mid;
 
-  while(left<right){
-    mid=left+(right-left)/2;
-
-    if(A.get(mid)>A.get(right)){
-      left=mid+1;
-    }else{
-      right=mid;
+    int left=0;
+    int right=A.size()-1;
+    int m;
+    while(left<right){
+      m=left+(right-left)/2;
+      if(A.get(m)>A.get(right)){
+        left=m+1;
+      }else{
+        right=m;
+      }
     }
-
-  }
     return left;
   }
 
