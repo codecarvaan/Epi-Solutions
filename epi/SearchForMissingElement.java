@@ -49,7 +49,7 @@ public class SearchForMissingElement {
 
   public static DuplicateAndMissing findDuplicateMissing(List<Integer> A) {
     // TODO - you fill in here.
-    return new DuplicateAndMissing(0, 0);
+    return new DuplicateAndMissing(0, 1);
   }
 
   public static void main(String[] args) {
