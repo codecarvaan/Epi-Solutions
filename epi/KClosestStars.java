@@ -7,7 +7,7 @@ import epi.test_framework.GenericTest;
 
 import java.util.*;
 import java.util.function.BiPredicate;
-public class KClosestStars {
+public class  KClosestStars {
   @EpiUserType(ctorParams = {double.class, double.class, double.class})
 
   public static class Star implements Comparable<Star> {

@@ -29,6 +29,7 @@ public class CalendarRendering {
 
   public static int findMaxSimultaneousEvents(List<Event> A) {
     // TODO - you fill in here.
+
     return 0;
   }
 

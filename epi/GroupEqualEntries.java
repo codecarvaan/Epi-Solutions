@@ -4,11 +4,9 @@ import epi.test_framework.EpiUserType;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TestFailure;
 import epi.test_framework.TimedExecutor;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+
+import java.util.*;
+
 public class GroupEqualEntries {
   @EpiUserType(ctorParams = {Integer.class, String.class})
 
@@ -44,6 +42,32 @@ public class GroupEqualEntries {
   }
   public static void groupByAge(List<Person> people) {
     // TODO - you fill in here.
+//    people.sort(new Comparator<Person>() {
+//      @Override
+//      public int compare(Person o1, Person o2) {
+//       if(o1.age>o2.age){
+//         return 1;
+//       }
+//       else if(o1.age<o2.age){
+//         return -1;
+//       }
+//       else{
+//         return 0;
+//       }
+//
+//      }
+//    });
+    HashMap<Integer,Integer>count=new HashMap<>();
+    for(Person p:people){
+      count.put(p.age,count.getOrDefault(p.age,0)+1);
+    }
+    HashMap<Integer,Integer> offset=new HashMap<>();
+    int start=0;
+    for(Integer i:count.keySet()){
+      offset.put(i,start);
+      start+=count.get(i);
+    }
+
     return;
   }
   private static Map<Person, Integer> buildMultiset(List<Person> people) {

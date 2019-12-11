@@ -7,7 +7,8 @@ public class ListCyclicRightShift {
   public static ListNode<Integer> cyclicallyRightShiftList(ListNode<Integer> L,
                                                            int k) {
     // TODO - you fill in here.
-    return null;
+
+    return L;
   }
 
   public static void main(String[] args) {
