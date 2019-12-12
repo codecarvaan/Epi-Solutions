@@ -2,14 +2,13 @@ package epi;
 
 import epi.test_framework.EpiTest;
 import epi.test_framework.EpiTestComparator;
-import epi.test_framework.LexicographicalListComparator;
 import epi.test_framework.GenericTest;
+import epi.test_framework.LexicographicalListComparator;
 
 import java.util.*;
 import java.util.function.BiPredicate;
 
 public class Anagrams {
-
 
       public static String sort(String str) {
         char arr[] = str.toCharArray();
@@ -17,7 +16,6 @@ public class Anagrams {
         return Arrays.toString(arr);
 
     }
-
 
     @EpiTest(testDataFile = "anagrams.tsv")
     public static List<List<String>> findAnagrams(List<String> dictionary) {
