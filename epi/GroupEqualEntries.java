@@ -1,116 +1,118 @@
 package epi;
-import epi.test_framework.EpiTest;
-import epi.test_framework.EpiUserType;
-import epi.test_framework.GenericTest;
-import epi.test_framework.TestFailure;
-import epi.test_framework.TimedExecutor;
+
+import epi.test_framework.*;
 
 import java.util.*;
 
 public class GroupEqualEntries {
-  @EpiUserType(ctorParams = {Integer.class, String.class})
+    public static void groupByAge(List<Person> people) {
+        // TODO - you fill in here.
 
-  public static class Person {
-    public Integer age;
-    public String name;
+        HashMap<Integer, Integer> ageFrequency = new HashMap<>();
+        for (Person p : people) {
+            ageFrequency.put(p.age, ageFrequency.getOrDefault(p.age, 0) + 1);
+        }
+        HashMap<Integer, Integer> offset = new HashMap<>();
+        int i = 0;
+        for (Integer key : ageFrequency.keySet()) {
+            offset.put(key, i);
+            i += ageFrequency.get(key);
+        }
 
-    public Person(Integer k, String n) {
-      age = k;
-      name = n;
+
+        while (!offset.isEmpty()) {
+            Map.Entry<Integer, Integer> from = offset.entrySet().iterator().next();
+            Integer toAge = people.get(from.getValue()).age;
+            Integer toValue = offset.get(toAge);
+            Collections.swap(people, from.getValue(), toValue);
+            // Use ageToCount to see when we are finished with a particular age.
+            Integer count = ageFrequency.get(toAge) - 1;
+            ageFrequency.put(toAge, count);
+            if (count > 0) {
+                offset.put(toAge, toValue + 1);
+            } else {
+                offset.remove(toAge);
+            }
+        }
+
+        return;
     }
 
-    @Override
-    public boolean equals(Object o) {
-      if (this == o)
-        return true;
-      if (o == null || getClass() != o.getClass())
-        return false;
-
-      Person person = (Person)o;
-
-      if (!age.equals(person.age))
-        return false;
-      return name.equals(person.name);
+    private static Map<Person, Integer> buildMultiset(List<Person> people) {
+        Map<Person, Integer> m = new HashMap<>();
+        for (Person p : people) {
+            m.put(p, m.getOrDefault(p, 0) + 1);
+        }
+        return m;
     }
 
-    @Override
-    public int hashCode() {
-      int result = age.hashCode();
-      result = 31 * result + name.hashCode();
-      return result;
-    }
-  }
-  public static void groupByAge(List<Person> people) {
-    // TODO - you fill in here.
-//    people.sort(new Comparator<Person>() {
-//      @Override
-//      public int compare(Person o1, Person o2) {
-//       if(o1.age>o2.age){
-//         return 1;
-//       }
-//       else if(o1.age<o2.age){
-//         return -1;
-//       }
-//       else{
-//         return 0;
-//       }
-//
-//      }
-//    });
-    HashMap<Integer,Integer>count=new HashMap<>();
-    for(Person p:people){
-      count.put(p.age,count.getOrDefault(p.age,0)+1);
-    }
-    HashMap<Integer,Integer> offset=new HashMap<>();
-    int start=0;
-    for(Integer i:count.keySet()){
-      offset.put(i,start);
-      start+=count.get(i);
+    @EpiTest(testDataFile = "group_equal_entries.tsv")
+    public static void groupByAgeWrapper(TimedExecutor executor,
+                                         List<Person> people) throws Exception {
+        if (people.isEmpty()) {
+            return;
+        }
+        Map<Person, Integer> values = buildMultiset(people);
+
+        executor.run(() -> groupByAge(people));
+
+        Map<Person, Integer> newValues = buildMultiset(people);
+        if (!values.equals(newValues)) {
+            throw new TestFailure("Entry set changed");
+        }
+        int lastAge = people.get(0).age;
+        Set<Integer> ages = new HashSet<>();
+
+        for (Person p : people) {
+            if (ages.contains(p.age)) {
+                throw new TestFailure("Entries are not grouped by age");
+            }
+            if (p.age != lastAge) {
+                ages.add(lastAge);
+                lastAge = p.age;
+            }
+        }
     }
 
-    return;
-  }
-  private static Map<Person, Integer> buildMultiset(List<Person> people) {
-    Map<Person, Integer> m = new HashMap<>();
-    for (Person p : people) {
-      m.put(p, m.getOrDefault(p, 0) + 1);
+    public static void main(String[] args) {
+        System.exit(
+                GenericTest
+                        .runFromAnnotations(args, "GroupEqualEntries.java",
+                                new Object() {
+                                }.getClass().getEnclosingClass())
+                        .ordinal());
     }
-    return m;
-  }
 
-  @EpiTest(testDataFile = "group_equal_entries.tsv")
-  public static void groupByAgeWrapper(TimedExecutor executor,
-                                       List<Person> people) throws Exception {
-    if (people.isEmpty()) {
-      return;
+    @EpiUserType(ctorParams = {Integer.class, String.class})
+
+    public static class Person {
+        public Integer age;
+        public String name;
+
+        public Person(Integer k, String n) {
+            age = k;
+            name = n;
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o)
+                return true;
+            if (o == null || getClass() != o.getClass())
+                return false;
+
+            Person person = (Person) o;
+
+            if (!age.equals(person.age))
+                return false;
+            return name.equals(person.name);
+        }
+
+        @Override
+        public int hashCode() {
+            int result = age.hashCode();
+            result = 31 * result + name.hashCode();
+            return result;
+        }
     }
-    Map<Person, Integer> values = buildMultiset(people);
-
-    executor.run(() -> groupByAge(people));
-
-    Map<Person, Integer> newValues = buildMultiset(people);
-    if (!values.equals(newValues)) {
-      throw new TestFailure("Entry set changed");
-    }
-    int lastAge = people.get(0).age;
-    Set<Integer> ages = new HashSet<>();
-
-    for (Person p : people) {
-      if (ages.contains(p.age)) {
-        throw new TestFailure("Entries are not grouped by age");
-      }
-      if (p.age != lastAge) {
-        ages.add(lastAge);
-        lastAge = p.age;
-      }
-    }
-  }
-
-  public static void main(String[] args) {
-    System.exit(
-        GenericTest
-            .runFromAnnotations(args, "GroupEqualEntries.java",
-                                new Object() {}.getClass().getEnclosingClass())
-            .ordinal());
-  }
 }

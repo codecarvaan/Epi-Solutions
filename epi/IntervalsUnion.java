@@ -1,8 +1,10 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.EpiUserType;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TimedExecutor;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -20,6 +22,8 @@ public class IntervalsUnion {
 
   public static List<Interval> unionOfIntervals(List<Interval> intervals) {
     // TODO - you fill in here.
+
+
     return Collections.emptyList();
   }
   @EpiUserType(
