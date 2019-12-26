@@ -12,7 +12,7 @@ public class Hanoi {
     private static final int NUM_PEGS = 3;
 
     public static List<List<Integer>> computeTowerHanoi(int numRings) {
-        // TODO - you fill in here.
+      
         List<Deque<Integer>> pegs = new ArrayList<>();
         for (int i = 0; i < 3; i++) {
             pegs.add(new ArrayDeque<>());
