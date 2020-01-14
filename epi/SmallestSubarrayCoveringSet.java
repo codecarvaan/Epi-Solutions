@@ -9,6 +9,7 @@ import java.util.Set;
 public class SmallestSubarrayCoveringSet {
 
   // Represent subarray by starting and ending indices, inclusive.
+
   private static class Subarray {
     public Integer start;
     public Integer end;
@@ -21,8 +22,10 @@ public class SmallestSubarrayCoveringSet {
 
   public static Subarray findSmallestSubarrayCoveringSet(List<String> paragraph,
                                                          Set<String> keywords) {
+
+
     // TODO - you fill in here.
-    return new Subarray(0, 0);
+    return new Subarray(0, 10);
   }
   @EpiTest(testDataFile = "smallest_subarray_covering_set.tsv")
   public static int findSmallestSubarrayCoveringSetWrapper(

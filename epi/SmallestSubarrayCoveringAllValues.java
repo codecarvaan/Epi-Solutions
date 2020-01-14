@@ -1,61 +1,109 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TestFailure;
 import epi.test_framework.TimedExecutor;
+
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+
 public class SmallestSubarrayCoveringAllValues {
 
-  public static class Subarray {
-    // Represent subarray by starting and ending indices, inclusive.
-    public Integer start;
-    public Integer end;
+    public static Subarray
+    findSmallestSequentiallyCoveringSubset(List<String> paragraph,
+                                           List<String> keywords) {
+        //TODO
+        // Maps each keyword to its index in the keywords array.
+        Map<String, Integer> keywordToIdx = new HashMap<>();
 
-    public Subarray(Integer start, Integer end) {
-      this.start = start;
-      this.end = end;
+        // Since keywords are uniquely identified by their indices in keywords
+        // array, we can use those indices as keys to lookup in a vector.
+        List<Integer> latestOccurrence = new ArrayList<>(keywords.size());
+
+        // For each keyword (identified by its index in keywords array), stores the
+        // length of the shortest subarray ending at the most recent occurrence of
+        // that keyword that sequentially cover all keywords up to that keyword.
+        List<Integer> shortestSubarrayLength = new ArrayList<>(keywords.size());
+
+        // Initializes latestOccurrence, shortestSubarrayLength, and keywordToIdx.
+        for (int i = 0; i < keywords.size(); ++i) {
+            latestOccurrence.add(-1);
+            shortestSubarrayLength.add(Integer.MAX_VALUE);
+            keywordToIdx.put(keywords.get(i), i);
+        }
+
+        int shortestDistance = Integer.MAX_VALUE;
+        Subarray result = new Subarray(-1, -1);
+        for (int i = 0; i < paragraph.size(); i++) {
+            Integer keywordIDx = keywordToIdx.get(paragraph.get(i));
+            if (keywordIDx != null) {
+
+                if (keywordIDx == 0) {
+                    shortestSubarrayLength.set(0, 1);
+                } else if (shortestSubarrayLength.get(keywordIDx - 1) != Integer.MAX_VALUE) {
+                    int distance = i - latestOccurrence.get(keywordIDx - 1);
+                    shortestSubarrayLength.set(keywordIDx, distance + shortestSubarrayLength.get(keywordIDx - 1));
+                }
+                latestOccurrence.set(keywordIDx, i);
+
+                if (keywordIDx == keywords.size() - 1 && shortestSubarrayLength.get(keywordIDx) < shortestDistance) {
+                    shortestDistance = shortestSubarrayLength.get(shortestSubarrayLength.size() - 1);
+                    result.start = i - shortestSubarrayLength.get(shortestSubarrayLength.size() - 1) + 1;
+                    result.end = i;
+                }
+            }
+        }
+        return result;
     }
-  }
 
-  public static Subarray
-  findSmallestSequentiallyCoveringSubset(List<String> paragraph,
-                                         List<String> keywords) {
-    // TODO - you fill in here.
-    return new Subarray(0, 0);
-  }
-  @EpiTest(testDataFile = "smallest_subarray_covering_all_values.tsv")
-  public static int findSmallestSequentiallyCoveringSubsetWrapper(
-      TimedExecutor executor, List<String> paragraph, List<String> keywords)
-      throws Exception {
-    Subarray result = executor.run(
-        () -> findSmallestSequentiallyCoveringSubset(paragraph, keywords));
+    @EpiTest(testDataFile = "smallest_subarray_covering_all_values.tsv")
+    public static int findSmallestSequentiallyCoveringSubsetWrapper(
+            TimedExecutor executor, List<String> paragraph, List<String> keywords)
+            throws Exception {
+        Subarray result = executor.run(
+                () -> findSmallestSequentiallyCoveringSubset(paragraph, keywords));
 
-    int kwIdx = 0;
-    if (result.start < 0) {
-      throw new TestFailure("Subarray start index is negative");
+        int kwIdx = 0;
+        if (result.start < 0) {
+            throw new TestFailure("Subarray start index is negative");
+        }
+        int paraIdx = result.start;
+
+        while (kwIdx < keywords.size()) {
+            if (paraIdx >= paragraph.size()) {
+                throw new TestFailure("Not all keywords are in the generated subarray");
+            }
+            if (paraIdx >= paragraph.size()) {
+                throw new TestFailure("Subarray end index exceeds array size");
+            }
+            if (paragraph.get(paraIdx).equals(keywords.get(kwIdx))) {
+                kwIdx++;
+            }
+            paraIdx++;
+        }
+        return result.end - result.start + 1;
     }
-    int paraIdx = result.start;
 
-    while (kwIdx < keywords.size()) {
-      if (paraIdx >= paragraph.size()) {
-        throw new TestFailure("Not all keywords are in the generated subarray");
-      }
-      if (paraIdx >= paragraph.size()) {
-        throw new TestFailure("Subarray end index exceeds array size");
-      }
-      if (paragraph.get(paraIdx).equals(keywords.get(kwIdx))) {
-        kwIdx++;
-      }
-      paraIdx++;
+    public static void main(String[] args) {
+        System.exit(
+                GenericTest
+                        .runFromAnnotations(args, "SmallestSubarrayCoveringAllValues.java",
+                                new Object() {
+                                }.getClass().getEnclosingClass())
+                        .ordinal());
     }
-    return result.end - result.start + 1;
-  }
 
-  public static void main(String[] args) {
-    System.exit(
-        GenericTest
-            .runFromAnnotations(args, "SmallestSubarrayCoveringAllValues.java",
-                                new Object() {}.getClass().getEnclosingClass())
-            .ordinal());
-  }
+    public static class Subarray {
+        // Represent subarray by starting and ending indices, inclusive.
+        public Integer start;
+        public Integer end;
+
+        public Subarray(Integer start, Integer end) {
+            this.start = start;
+            this.end = end;
+        }
+    }
 }
