@@ -2,30 +2,32 @@ package epi;
 import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 public class IsTreeABst {
-  @EpiTest(testDataFile = "is_tree_a_bst.tsv")
+    @EpiTest(testDataFile = "is_tree_a_bst.tsv")
+    public static boolean isBinaryTreeBST(BinaryTreeNode<Integer> tree) {
 
-  public static boolean helper(BinaryTreeNode<Integer> root,Integer min,Integer max){
-  // TODO
-    if(root==null){
-     return true;
-   }
-   if(root.data<min && min!=null){
-     return false;
-   }
-   if(root.data>max && max!=null){
-     return false;
-   }
-   return true;
-  }
-  public static boolean isBinaryTreeBST(BinaryTreeNode<Integer> tree) {
-    return  helper(tree, null, null);
-  }
+        return areKeysInRange(tree, Integer.MIN_VALUE, Integer.MAX_VALUE);
+    }
 
-  public static void main(String[] args) {
-    System.exit(
-        GenericTest
-            .runFromAnnotations(args, "IsTreeABst.java",
-                                new Object() {}.getClass().getEnclosingClass())
-            .ordinal());
-  }
+    private static boolean areKeysInRange(BinaryTreeNode<Integer> tree,
+                                          Integer lower, Integer upper) {
+        if (tree == null) {
+            return true;
+        } else if (Integer.compare(tree.data, lower) < 0 ||
+                Integer.compare(tree.data, upper) > 0) {
+            return false;
+        }
+
+        return areKeysInRange(tree.left, lower, tree.data) &&
+                areKeysInRange(tree.right, tree.data, upper);
+    }
+
+
+    public static void main(String[] args) {
+        System.exit(
+                GenericTest
+                        .runFromAnnotations(args, "IsTreeABst.java",
+                                new Object() {
+                                }.getClass().getEnclosingClass())
+                        .ordinal());
+    }
 }
