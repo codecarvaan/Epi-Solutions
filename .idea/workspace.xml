@@ -1,25 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="225debaa-b153-4333-81bf-045707de369e" name="Default Changelist" comment="..">
+    <list default="true" id="225debaa-b153-4333-81bf-045707de369e" name="Default Changelist" comment="fixed platform">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/Combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/Hanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/PowerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/PowerSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/ABSqrt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/ABSqrt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/DeleteNodeFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/DeleteNodeFromList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/DescendantAndAncestorInBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/DescendantAndAncestorInBst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/IsStringInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/IsStringInMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/LevenshteinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/LevenshteinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/MinimumWeightPathInATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MinimumWeightPathInATriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/NumberOfScoreCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfScoreCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/NumberOfTraversalsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/NumberOfTraversalsStaircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsStaircase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/RangeLookupInBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/RangeLookupInBst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/SortedListToBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/SortedListToBst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/StringTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/StringTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTraits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" afterDir="false" />
@@ -43,275 +58,105 @@
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="42214481">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="4" />
-          <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.45" value="3" />
-          <entry key="project.open.time.51" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.opened" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="150" />
-          <entry key="tsv" value="1" />
-          <entry key="xml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="129" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scratch" value="21" />
-          <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="22050" />
-          <entry key="txt" value="260" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="14171" />
-          <entry key="PLAIN_TEXT" value="260" />
-          <entry key="Scratch" value="7879" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/epi/PowerSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/problem.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-249">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/epi/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/epi/Combinations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="30" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/epi/TreePostorder.java" />
-        <option value="$PROJECT_DIR$/epi/TreePreorder.java" />
-        <option value="$PROJECT_DIR$/epi/KthNodeInTree.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
-        <option value="$PROJECT_DIR$/epi/KthLargestElementInTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/epi/KLargestValuesInBst.java" />
-        <option value="$PROJECT_DIR$/epi/KthLargestInArray.java" />
-        <option value="$PROJECT_DIR$/epi/KLargestInHeap.java" />
-        <option value="$PROJECT_DIR$/epi/KthLargestElementInLongArray.java" />
-        <option value="$PROJECT_DIR$/epi/TreeWithParentInorder.java" />
-        <option value="$PROJECT_DIR$/epi/SearchFirstKey.java" />
-        <option value="$PROJECT_DIR$/epi/SearchEntryEqualToIndex.java" />
-        <option value="$PROJECT_DIR$/epi/IntSquareRoot.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
-        <option value="$PROJECT_DIR$/epi/RealSquareRoot.java" />
-        <option value="$PROJECT_DIR$/epi/IsTreeABst.java" />
-        <option value="$PROJECT_DIR$/epi/ListCyclicRightShift.java" />
-        <option value="$PROJECT_DIR$/epi/SearchShiftedSortedArray.java" />
-        <option value="$PROJECT_DIR$/epi/SearchRowColSortedMatrix.java" />
-        <option value="$PROJECT_DIR$/epi/SearchForMinMaxInArray.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.java" />
-        <option value="$PROJECT_DIR$/epi/IsStringPermutableToPalindrome.java" />
-        <option value="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTraits.java" />
-        <option value="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTraits.java" />
-        <option value="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTraits.java" />
-        <option value="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTraits.java" />
-        <option value="$PROJECT_DIR$/epi/test_framework/serialization_traits/StringTraits.java" />
-        <option value="$PROJECT_DIR$/epi/NearestRepeatedEntries.java" />
-        <option value="$PROJECT_DIR$/epi/Parity.java" />
-        <option value="$PROJECT_DIR$/epi/KClosestStars.java" />
-        <option value="$PROJECT_DIR$/epi/LruCache.java" />
-        <option value="$PROJECT_DIR$/epi/SearchFrequentItems.java" />
-        <option value="$PROJECT_DIR$/epi/IsAnonymousLetterConstructible.java" />
-        <option value="$PROJECT_DIR$/epi/SmallestSubarrayCoveringSet.java" />
-        <option value="$PROJECT_DIR$/epi/LongestSubarrayWithDistinctValues.java" />
-        <option value="$PROJECT_DIR$/epi/LongestContainedInterval.java" />
-        <option value="$PROJECT_DIR$/epi/SmallestSubarrayCoveringAllValues.java" />
-        <option value="$PROJECT_DIR$/epi/StringDecompositionsIntoDictionaryWords.java" />
-        <option value="$PROJECT_DIR$/epi/IntersectSortedArrays.java" />
-        <option value="$PROJECT_DIR$/epi/TwoSortedArraysMerge.java" />
-        <option value="$PROJECT_DIR$/epi/CalendarRendering.java" />
-        <option value="$PROJECT_DIR$/epi/FindSalaryThreshold.java" />
-        <option value="$PROJECT_DIR$/epi/GroupEqualEntries.java" />
-        <option value="$PROJECT_DIR$/epi/Hanoi.java" />
-        <option value="$PROJECT_DIR$/epi/NQueens.java" />
-        <option value="$PROJECT_DIR$/epi/Permutations.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-        <option value="$PROJECT_DIR$/epi/Combinations.java" />
-        <option value="$PROJECT_DIR$/epi/PowerSet.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" />
-        <option value="$PROJECT_DIR$/epi/QuickSort.java" />
-      </list>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/codecarvaan/Epi-Solutions.git" />
+      </set>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="ProjectId" id="1Sah1QnZZD3Gs1nX0mSLjUDCXW4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-              <item name="epi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="git Repo" type="462c0819:PsiDirectoryNode" />
-              <item name="epi" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchFrequentItems.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="git Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577382768074" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570040999479" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.Combinations" />
+  <component name="RunManager" selected="Application.LongestNondecreasingSubsequence">
+    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.Knapsack" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -323,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.PowerSet" />
+    <configuration name="LongestNondecreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.LongestNondecreasingSubsequence" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -336,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.QuickSort" />
+    <configuration name="MinimumWeightPathInATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.MinimumWeightPathInATriangle" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -349,36 +194,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch (1)" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" />
+    <configuration name="NumberOfScoreCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.NumberOfScoreCombinations" />
+      <module name="git Repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <configuration name="NumberOfTraversalsStaircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.NumberOfTraversalsStaircase" />
+      <module name="git Repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PowerSet" />
-      <item itemvalue="Java Scratch.Scratch" />
-      <item itemvalue="Application.Combinations" />
-      <item itemvalue="Java Scratch.Scratch (1)" />
-      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.NumberOfScoreCombinations" />
+      <item itemvalue="Application.Knapsack" />
+      <item itemvalue="Application.MinimumWeightPathInATriangle" />
+      <item itemvalue="Application.NumberOfTraversalsStaircase" />
+      <item itemvalue="Application.LongestNondecreasingSubsequence" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Java Scratch.Scratch (1)" />
-        <item itemvalue="Application.PowerSet" />
-        <item itemvalue="Application.Combinations" />
-        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.LongestNondecreasingSubsequence" />
+        <item itemvalue="Application.Knapsack" />
+        <item itemvalue="Application.NumberOfScoreCombinations" />
+        <item itemvalue="Application.NumberOfTraversalsStaircase" />
+        <item itemvalue="Application.MinimumWeightPathInATriangle" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -398,600 +267,325 @@
       <option name="project" value="LOCAL" />
       <updated>1570041038854</updated>
     </task>
-    <task id="LOCAL-00002" summary="finding kth node in inorder traversal given number of nodes">
-      <created>1572373472257</created>
+    <task id="LOCAL-00002" summary="fixed platform">
+      <created>1571810908932</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1572373472257</updated>
+      <updated>1571810908932</updated>
     </task>
-    <task id="LOCAL-00003" summary="printing K closest starts in the galaxy using heap">
-      <created>1573388781372</created>
+    <task id="LOCAL-00003" summary="fixed platform">
+      <created>1571810943126</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1573388781372</updated>
+      <updated>1571810943126</updated>
     </task>
-    <task id="LOCAL-00004" summary="Heap Sort">
-      <created>1574192876376</created>
+    <task id="LOCAL-00004" summary="fixed platform">
+      <created>1571810975385</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1574192876376</updated>
+      <updated>1571810975385</updated>
     </task>
-    <task id="LOCAL-00005" summary="printing K closest starts in the galaxy using heap">
-      <created>1574367998706</created>
+    <task id="LOCAL-00005" summary="fixed platform">
+      <created>1571812243956</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1574367998706</updated>
+      <updated>1571812243956</updated>
     </task>
-    <task id="LOCAL-00006" summary="printing K closest starts in the galaxy using heap">
-      <created>1574615381477</created>
+    <task id="LOCAL-00006" summary="Sum the root to leaf in a binary tree">
+      <created>1571812885541</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1574615381477</updated>
+      <updated>1571812885541</updated>
     </task>
-    <task id="LOCAL-00007" summary="Tower Hanoi calculate steps to transfer from A to C pegs using B  with recursion">
-      <created>1576605811514</created>
+    <task id="LOCAL-00007" summary="Tree inorder with iteration">
+      <created>1571825604087</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1576605811514</updated>
+      <updated>1571825604087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Node to leaf sum is equal to specific weight?">
+      <created>1571825651287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571825651287</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Some random TODO">
+      <created>1575290855297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575290855297</updated>
+    </task>
+    <task id="LOCAL-00010" summary="String Decomposition">
+      <created>1575455806064</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575455806064</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed platform">
+      <created>1575632562392</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575632562392</updated>
+    </task>
+    <task id="LOCAL-00012" summary="two sum">
+      <created>1575634243606</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575634243606</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixed platform">
+      <created>1576132014044</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132014044</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" performed">
+      <created>1579027249164</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579027249164</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.15128593" />
-      <window_info id="Structure" order="1" sideWeight="0.5014245" side_tool="true" weight="0.28214827" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.29982963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.032367975" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.2350937" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32879046" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" weight="0.24701874" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.32879046" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270869" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32879046" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.24701874" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.24754098" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270869" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="preorder" />
-    <MESSAGE value="finding kth node in inorder traversal given number of nodes" />
-    <MESSAGE value="Heap Sort" />
-    <MESSAGE value="printing K closest starts in the galaxy using heap" />
-    <MESSAGE value=".." />
-    <MESSAGE value="Tower Hanoi calculate steps to transfer from A to C pegs using B  with recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tower Hanoi calculate steps to transfer from A to C pegs using B  with recursion" />
+    <MESSAGE value="Sum the root to leaf in a binary tree" />
+    <MESSAGE value="Tree inorder with iteration" />
+    <MESSAGE value="Node to leaf sum is equal to specific weight?" />
+    <MESSAGE value="Some random TODO" />
+    <MESSAGE value="String Decomposition" />
+    <MESSAGE value="two sum" />
+    <MESSAGE value="fixed platform" />
+    <MESSAGE value=" performed" />
+    <option name="LAST_COMMIT_MESSAGE" value=" performed" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="214" key="#Project_Structure" timestamp="1575457001797">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="565" y="214" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1575457001797" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1575871613506">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1575871613506" />
+    <state x="600" y="147" width="777" height="811" key="CommitChangelistDialog2" timestamp="1579782429774">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="600" y="147" width="777" height="811" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579782429774" />
+    <state x="259" y="304" width="1482" height="872" key="DiffContextDialog" timestamp="1579782393578">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="259" y="304" width="1482" height="872" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579782393578" />
+    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl" timestamp="1576132055433">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1576132055433" />
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1579782080622">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080622" />
+    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1579782080621">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
+    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1579782080621">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
+    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1579782080621">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
+    <state width="1807" height="359" key="GridCell.Tab.1.bottom" timestamp="1579781783117">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="359" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
+    <state width="1807" height="359" key="GridCell.Tab.1.center" timestamp="1579781783117">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="359" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
+    <state width="1807" height="359" key="GridCell.Tab.1.left" timestamp="1579781783117">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="359" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
+    <state width="1807" height="359" key="GridCell.Tab.1.right" timestamp="1579781783117">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="359" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
+    <state x="247" y="116" width="1482" height="872" key="MergeDialog" timestamp="1579027465288">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="247" y="116" width="1482" height="872" key="MergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579027465288" />
+    <state x="698" y="270" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1579027307780">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="698" y="270" width="580" height="564" key="MultipleFileMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579027307780" />
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1575457016275">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575457016275" />
+    <state x="837" y="469" width="303" height="166" key="VCS.ChangelistChooser" timestamp="1579027445666">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="837" y="469" width="303" height="166" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579027445666" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579027492043">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579027492043" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579175533322">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579175533322" />
+    <state x="761" y="472" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576041534834">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1576041534834" />
+    <state x="638" y="156" width="710" height="792" key="find.popup" timestamp="1579442059678">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="156" width="710" height="792" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579442059678" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1575959935030">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1575959935030" />
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1575635570863">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575635570863" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1579775824925">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579775824925" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1579381967501">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579381967501" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
-          <line>47</line>
-          <properties />
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/epi/Permutations.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/LevenshteinDistance.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/LevenshteinDistance.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/LevenshteinDistance.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr[0][0]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/epi/test_framework/serialization_traits/StringTraits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/ZipList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/UniformRandomNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Arbitrage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/IsValidParenthesization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/BinomialCoefficients.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TreeExterior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/MatrixRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk-12/jdk-12.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="973" column="25" selection-start-line="973" selection-start-column="25" selection-end-line="973" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/NearestRepeatedEntries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Parity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Knapsack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/KClosestStars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/IsAnonymousLetterConstructible.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/LruCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="93" lean-forward="true" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/SmallestSubarrayCoveringSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/LongestSubarrayWithDistinctValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/AbsentValueArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/ABSqrt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/AddingCredits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/AdvanceByOffsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/AlternatingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/SearchFrequentItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/LongestContainedInterval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/SmallestSubarrayCoveringAllValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/StringDecompositionsIntoDictionaryWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/IntersectSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/TwoSortedArraysMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/RemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/CalendarRendering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/IntervalsUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/FindSalaryThreshold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/GroupEqualEntries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk-12/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/IntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Hanoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/test_framework/TimedExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/test_framework/GenericTestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/test_framework/GenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/problem.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="30" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/PowerSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epi/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>git Repo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

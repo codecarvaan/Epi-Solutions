@@ -1,22 +1,40 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TestFailure;
 import epi.test_framework.TimedExecutor;
+
 import java.util.Iterator;
 import java.util.List;
+
 public class SortedListToBst {
   // Returns the root of the corresponding BST. The prev and next fields of the
   // list nodes are used as the BST nodes left and right fields, respectively.
   // The length of the list is given.
-  public static DoublyListNode<Integer>
-  buildBSTFromSortedList(DoublyListNode<Integer> l, int length) {
-    // TODO - you fill in here.
-    return null;
+  static DoublyListNode<Integer> head;
+
+  public static DoublyListNode<Integer> buildBSTFromSortedList(DoublyListNode<Integer> l, int length) {
+    head = l;
+    return util(0, length - 1);
   }
+
+  public static DoublyListNode<Integer> util(int start, int end) {
+    if (start > end) {
+      return null;
+    }
+    int mid = (start + end) / 2;
+    DoublyListNode<Integer> left = util(start, mid - 1);
+    DoublyListNode<Integer> node = new DoublyListNode(head.data, left, null);
+    head = head.next;
+    DoublyListNode<Integer> right = util(mid + 1, end);
+    node.next = right;
+    return node;
+  }
+
   public static void compareVectorAndTree(DoublyListNode<Integer> tree,
                                           Iterator<Integer> it)
-      throws TestFailure {
+          throws TestFailure {
     if (tree == null) {
       return;
     }
