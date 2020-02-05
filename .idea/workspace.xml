@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="225debaa-b153-4333-81bf-045707de369e" name="Default Changelist" comment="fixed platform">
+      <change afterPath="$PROJECT_DIR$/epi/rough" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/ABSqrt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/ABSqrt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/DeleteNodeFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/DeleteNodeFromList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/DescendantAndAncestorInBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/DescendantAndAncestorInBst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/DutchNationalFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/DutchNationalFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/IsStringDecomposableIntoWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/IsStringDecomposableIntoWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/IsStringInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/IsStringInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/LevenshteinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/LevenshteinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/MinimumWeightPathInATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MinimumWeightPathInATriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/NumberOfScoreCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfScoreCombinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/NumberOfTraversalsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/NumberOfTraversalsStaircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsStaircase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/RangeLookupInBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/RangeLookupInBst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epi/SortedListToBst.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/SortedListToBst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/LargestRectangleUnderSkyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/LargestRectangleUnderSkyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/MaxTrappedWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MaxTrappedWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/MinimumPointsCoveringIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MinimumPointsCoveringIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/MinimumWaitingTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/MinimumWaitingTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/PickingUpCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/PickingUpCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/PrettyPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/PrettyPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/RefuelingSchedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/RefuelingSchedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/StringDecompositionsIntoDictionaryWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/StringDecompositionsIntoDictionaryWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/TaskPairing.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/TaskPairing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epi/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTraits.java" afterDir="false" />
@@ -23,93 +25,55 @@
       <change beforePath="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTraits.java" beforeDir="false" afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTraits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ABSqrt2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/BstToSortedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Endpoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering$Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/CalendarRendering.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Combinations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DescendantAndAncestorInBst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/FindSalaryThreshold.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/GroupEqualEntries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Hanoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntersectSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd$Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$FlatInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$FlatInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval$Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval$Endpoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion$Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IntervalsUnion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsListCyclic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsNumberPalindromic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsTreeABst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/KLargestValuesInBst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ListCyclicRightShift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LowestCommonAncestorInBst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LruCache$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MatrixRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxSumSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays$ArrayData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumDistance3SortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NQueens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PowerSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ReverseWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchFirstGreaterValueInBst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray$MinMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMinMaxInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchForMissingElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SearchRowColSortedMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/DeleteNodeFromList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringDecomposableIntoWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/IsStringInMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/Knapsack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LargestRectangleUnderSkyline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LevenshteinDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/LongestNondecreasingSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MaxTrappedWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumPointsCoveringIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWaitingTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/MinimumWeightPathInATriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfScoreCombinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/NumberOfTraversalsStaircase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PickingUpCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/PrettyPrinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RangeLookupInBst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/RefuelingSchedule.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SortedListToBst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax$StackOp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StackWithMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/SubstringMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePostorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TreePreorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/GenericTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/TestUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/test_framework/serialization_traits/ListTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/StringDecompositionsIntoDictionaryWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$PairedTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing$PairedTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/TaskPairing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git Repo/epi/ThreeSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,16 +111,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570040999479" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA&#10;HTML" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.LongestNondecreasingSubsequence">
-    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.Knapsack" />
+  <component name="RunManager" selected="Application.DutchNationalFlag">
+    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.DutchNationalFlag" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestNondecreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.LongestNondecreasingSubsequence" />
+    <configuration name="LargestRectangleUnderSkyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.LargestRectangleUnderSkyline" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumWeightPathInATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.MinimumWeightPathInATriangle" />
+    <configuration name="MinimumWaitingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.MinimumWaitingTime" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -194,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfScoreCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.NumberOfScoreCombinations" />
+    <configuration name="RefuelingSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi.RefuelingSchedule" />
       <module name="git Repo" />
       <extension name="coverage">
         <pattern>
@@ -207,33 +171,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfTraversalsStaircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="epi.NumberOfTraversalsStaircase" />
-      <module name="git Repo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="epi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberOfScoreCombinations" />
-      <item itemvalue="Application.Knapsack" />
-      <item itemvalue="Application.MinimumWeightPathInATriangle" />
-      <item itemvalue="Application.NumberOfTraversalsStaircase" />
-      <item itemvalue="Application.LongestNondecreasingSubsequence" />
+      <item itemvalue="Application.RefuelingSchedule" />
+      <item itemvalue="Application.LargestRectangleUnderSkyline" />
+      <item itemvalue="Application.MinimumWaitingTime" />
+      <item itemvalue="Java Scratch.scratch" />
+      <item itemvalue="Application.DutchNationalFlag" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestNondecreasingSubsequence" />
-        <item itemvalue="Application.Knapsack" />
-        <item itemvalue="Application.NumberOfScoreCombinations" />
-        <item itemvalue="Application.NumberOfTraversalsStaircase" />
-        <item itemvalue="Application.MinimumWeightPathInATriangle" />
+        <item itemvalue="Application.DutchNationalFlag" />
+        <item itemvalue="Java Scratch.scratch" />
+        <item itemvalue="Application.MinimumWaitingTime" />
+        <item itemvalue="Application.LargestRectangleUnderSkyline" />
+        <item itemvalue="Application.RefuelingSchedule" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579027249164</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="21 january">
+      <created>1579782430826</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579782430826</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +376,8 @@
     <MESSAGE value="two sum" />
     <MESSAGE value="fixed platform" />
     <MESSAGE value=" performed" />
-    <option name="LAST_COMMIT_MESSAGE" value=" performed" />
+    <MESSAGE value="21 january" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 january" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -421,6 +387,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="565" y="214" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1575457001797" />
+    <state x="702" y="357" width="572" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580048521601">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="702" y="357" width="572" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580048521601" />
     <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1575871613506">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -437,38 +407,38 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1576132055433" />
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom" timestamp="1579782080622">
+    <state width="1807" height="390" key="GridCell.Tab.0.bottom" timestamp="1580907258747">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080622" />
-    <state width="1807" height="363" key="GridCell.Tab.0.center" timestamp="1579782080621">
+    <state width="1807" height="390" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580907258747" />
+    <state width="1807" height="390" key="GridCell.Tab.0.center" timestamp="1580907258747">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
-    <state width="1807" height="363" key="GridCell.Tab.0.left" timestamp="1579782080621">
+    <state width="1807" height="390" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580907258747" />
+    <state width="1807" height="390" key="GridCell.Tab.0.left" timestamp="1580907258747">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
-    <state width="1807" height="363" key="GridCell.Tab.0.right" timestamp="1579782080621">
+    <state width="1807" height="390" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580907258747" />
+    <state width="1807" height="390" key="GridCell.Tab.0.right" timestamp="1580907258747">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579782080621" />
-    <state width="1807" height="359" key="GridCell.Tab.1.bottom" timestamp="1579781783117">
+    <state width="1807" height="390" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580907258747" />
+    <state width="1807" height="453" key="GridCell.Tab.1.bottom" timestamp="1580546737927">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="359" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
-    <state width="1807" height="359" key="GridCell.Tab.1.center" timestamp="1579781783117">
+    <state width="1807" height="453" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580546737927" />
+    <state width="1807" height="453" key="GridCell.Tab.1.center" timestamp="1580546737926">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="359" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
-    <state width="1807" height="359" key="GridCell.Tab.1.left" timestamp="1579781783117">
+    <state width="1807" height="453" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580546737926" />
+    <state width="1807" height="453" key="GridCell.Tab.1.left" timestamp="1580546737926">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="359" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
-    <state width="1807" height="359" key="GridCell.Tab.1.right" timestamp="1579781783117">
+    <state width="1807" height="453" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580546737926" />
+    <state width="1807" height="453" key="GridCell.Tab.1.right" timestamp="1580546737927">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="359" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579781783117" />
+    <state width="1807" height="453" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580546737927" />
     <state x="247" y="116" width="1482" height="872" key="MergeDialog" timestamp="1579027465288">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -485,14 +455,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="837" y="469" width="303" height="166" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579027445666" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579027492043">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579782446071">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579027492043" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579175533322">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579782446071" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580894571874">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579175533322" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580894571874" />
     <state x="761" y="472" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576041534834">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -505,14 +475,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1575959935030" />
-    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1575635570863">
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1580049240886">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575635570863" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1579775824925">
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580049240886" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1580903046107">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579775824925" />
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580903046107" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1579381967501">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -521,11 +491,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/epi/GroupEqualEntries.java</url>
           <line>23</line>
@@ -575,6 +540,41 @@
           <url>file://$PROJECT_DIR$/epi/LevenshteinDistance.java</url>
           <line>17</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/epi/PrettyPrinting.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

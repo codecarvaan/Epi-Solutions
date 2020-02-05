@@ -1,0 +1,47 @@
+package epi;
+
+import epi.test_framework.EpiTest;
+import epi.test_framework.GenericTest;
+
+import java.util.List;
+
+public class IsStringInMatrix {
+    @EpiTest(testDataFile = "is_string_in_matrix.tsv")
+    public static boolean isPatternContainedInGrid(List<List<Integer>> grid, List<Integer> pattern) {
+
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid.get(i).size(); j++) {
+                if (patternUtil(grid, pattern, i, j, 0))
+                    return true;
+            }
+        }
+        return false;
+    }
+
+    public static boolean patternUtil(List<List<Integer>> grid, List<Integer> pattern, int i, int j, int level) {
+
+        if (pattern.size() == level)
+            return true;
+        if (i < 0 || i >= grid.size() || j < 0 || j >= grid.get(0).size())
+            return false;
+
+        if (pattern.get(level) == grid.get(i).get(j)) {
+          boolean check=patternUtil(grid,pattern,i+1,j,level+1)||
+                        patternUtil(grid,pattern,i-1,j,level+1)||
+                        patternUtil(grid,pattern,i,j+1,level+1)||
+                        patternUtil(grid,pattern,i,j-1,level+1);
+          if(check)
+            return true;
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+        System.exit(
+                GenericTest
+                        .runFromAnnotations(args, "IsStringInMatrix.java",
+                                new Object() {
+                                }.getClass().getEnclosingClass())
+                        .ordinal());
+    }
+}

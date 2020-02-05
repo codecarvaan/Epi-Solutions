@@ -21,7 +21,7 @@ public class StringDecompositionsIntoDictionaryWords {
         int unitSize = words.get(0).length();
         for (int i = 0; i + unitSize * words.size() <= s.length(); i++) {
             if (match(s, i, map, unitSize, words.size())) {
-                result.add(i);
+                result.add(null);
             }
         }
 
