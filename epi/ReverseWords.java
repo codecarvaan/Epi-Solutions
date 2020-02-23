@@ -4,37 +4,33 @@ import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TimedExecutor;
 
-import java.util.Collections;
-
 public class ReverseWords {
-
-    public static void swap(char[] input, int i, int j) {
-        char temp = input[i];
-        input[i] = input[j];
-        input[j] = temp;
-    }
-
-    public static void reverseWordUtil(char[] array, int start, int end) {
-        while (start < end) {
-            swap(array, start++, end--);
-        }
-    }
 
     public static void reverseWords(char[] input) {
 
-        reverseWordUtil(input, 0, input.length - 1);
-        int start = 0;
-        int end;
-        for (int i = 0; i < input.length; i++) {
-            if (input[i] == ' ') {
-                end = i - 1;
-                reverseWordUtil(input, start, end);
-                start = i + 1;
-            } else if (i == input.length - 1) {
-                reverseWordUtil(input, start, i);
+        int n = input.length;
+        // First, reverses the whole string.
+        reverse(input, 0, n - 1);
+
+        // Second, Reverses each word in the string.
+        int start = 0, finish = 0;
+        while (start < n) {
+            while (start < finish || start < n && input[start] == ' ') {
+                ++start; // Skip spaces chars.
             }
+            while (finish < start || finish < n && input[finish] != ' ') {
+                ++finish; // Skip non-spaces chars.
+            }
+            reverse(input, start, finish - 1);
         }
-        return;
+    }
+
+    private static void reverse(char[] array, int start, int end) {
+        while (start < end) {
+            char tmp = array[start];
+            array[start++] = array[end];
+            array[end--] = tmp;
+        }
     }
 
     @EpiTest(testDataFile = "reverse_words.tsv")

@@ -1,19 +1,50 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TimedExecutor;
+
 import java.util.ArrayList;
 import java.util.List;
+
 public class ReplaceAndRemove {
 
   public static int replaceAndRemove(int size, char[] s) {
-    // TODO - you fill in here.
-    return 0;
+
+    int b = 0;
+    int a = 0;
+    int length = size;
+    int writeIdx = 0;
+    for (int i = 0; i < size; i++) {
+      if (s[i] != 'b') {
+        s[writeIdx] = s[i];
+        writeIdx++;
+
+      }
+      if (s[i] == 'a') {
+        a++;
+      }
+
+    }
+    int curIdx = writeIdx - 1;
+    writeIdx = writeIdx + a - 1;
+    final int finalSize = writeIdx + 1;
+    while (curIdx >= 0) {
+      if (s[curIdx] == 'a') {
+        s[writeIdx--] = 'd';
+        s[writeIdx--] = 'd';
+      } else {
+        s[writeIdx--] = s[curIdx];
+      }
+      --curIdx;
+    }
+    return finalSize;
   }
+
   @EpiTest(testDataFile = "replace_and_remove.tsv")
   public static List<String>
   replaceAndRemoveWrapper(TimedExecutor executor, Integer size, List<String> s)
-      throws Exception {
+          throws Exception {
     char[] sCopy = new char[s.size()];
     for (int i = 0; i < size; ++i) {
       if (!s.get(i).isEmpty()) {

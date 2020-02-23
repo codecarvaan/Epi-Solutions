@@ -1,31 +1,46 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.EpiUserType;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TestFailure;
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Queue;
-import java.util.Set;
+
+import java.util.*;
+
 public class GraphClone {
 
-  public static class GraphVertex {
-    public int label;
-    public List<GraphVertex> edges;
+    public static class GraphVertex {
+        public int label;
+        public List<GraphVertex> edges;
 
-    public GraphVertex(int label) {
-      this.label = label;
-      edges = new ArrayList<>();
+        public GraphVertex(int label) {
+            this.label = label;
+            edges = new ArrayList<>();
     }
   }
 
   public static GraphVertex cloneGraph(GraphVertex graph) {
-    // TODO - you fill in here.
-    return new GraphVertex(0);
+
+      if (graph == null) {
+          return null;
+      }
+      HashMap<GraphVertex, GraphVertex> map = new HashMap<>();
+
+      Deque<GraphVertex> queue = new LinkedList();
+      queue.add(graph);
+      map.put(graph, new GraphVertex(graph.label));
+      while (!queue.isEmpty()) {
+          GraphVertex tra = queue.pollFirst();
+          for (GraphVertex e : tra.edges) {
+              if (map.putIfAbsent(e, new GraphVertex(e.label)) == null) {
+                  queue.add(e);
+              }
+              map.get(tra).edges.add(map.get(e));
+          }
+
+      }
+
+      return map.get(graph);
   }
   private static List<Integer> copyLabels(List<GraphVertex> edges) {
     List<Integer> labels = new ArrayList<>();
